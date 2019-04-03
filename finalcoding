@@ -1,0 +1,3 @@
+Select students.Studentname,students.StudentId,classes.ClassName,classes.DateTime,classes.ClassID
+from students,classes,enrollments
+where students.StudentID=enrollments.StudentID and classes.ClassID=enrollments.ClassesID
