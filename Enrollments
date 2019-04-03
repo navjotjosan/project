@@ -1,0 +1,6 @@
+insert into enrollments values ("101","1103");
+insert into enrollments values ("102","1247");
+insert into enrollments values ("103","1389");
+insert into enrollments values ("104","1455");
+insert into enrollments values ("105","1203");
+insert into enrollments values ("101","1158");
