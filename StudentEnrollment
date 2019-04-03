@@ -1,0 +1,6 @@
+insert into students values ("Mary","101");
+insert into students values ("Steave","102");
+insert into students values ("Jordan","103");
+insert into students values ("Lisa","104");
+insert into students values ("Mike","105");
+insert into students values ("Bill","101");
