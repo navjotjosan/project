@@ -1,0 +1,9 @@
+insert into students values ("Java","B230","MON_AM","1103");
+insert into students values ("Csharp","B122","TUE_PM","1247");
+insert into students values ("Math","A506","WED_EV","1389");
+insert into students values ("Database","B123","THU_PM","1455");
+insert into students values ("ProjMgt","B125","FRI_PM","1203");
+insert into students values ("EmergTech","B122","FRI_EV","1158");
+insert into students values ("Csharp","B125","FRI_PM","1451");
+insert into students values ("Math","B111","WED_AM","1673");
+
